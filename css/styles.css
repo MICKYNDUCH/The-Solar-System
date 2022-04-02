@@ -8,6 +8,7 @@ h1{
 h3{
  color: crimson;
  font-size: 50px;
+ margin-left: 500px;
 }
 body {
   
@@ -23,7 +24,7 @@ body {
 p {
  color: blanchedalmond;
 font-size: larger;
-margin-left: 20px;
+margin: 50px;
   }
 ul {
   color: green;
@@ -35,5 +36,6 @@ ul {
 #pic {
   width: 600px;
   height: 350px;
+  margin-left: 300px;
   
 }

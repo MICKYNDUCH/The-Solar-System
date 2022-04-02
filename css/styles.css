@@ -2,6 +2,7 @@ h1{
   color: rgb(253, 253, 255);
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
 }
 h3{
  color: crimson;
@@ -15,6 +16,7 @@ body {
   background-size: cover;
   text-align: center;
   margin: 200px;
+  color: white;
  
   
 }
@@ -24,6 +26,9 @@ font-size: larger;
   }
 ul {
   color: green;
+  font-size: large;
+  text-align: left;
+  color: white;
 }
 #pic {
   width: 600px;

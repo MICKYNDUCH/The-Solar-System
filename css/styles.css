@@ -1,0 +1,24 @@
+h1{
+  color: blue;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+  color: purple;
+}
+body {
+  
+  background-image: url(/image/Earth.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+p {
+  color: blue;
+}
+ul {
+  color: green;
+}
+#pic {
+  width: 250px;
+  height: 250px;
+}

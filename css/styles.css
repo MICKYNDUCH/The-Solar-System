@@ -1,24 +1,32 @@
 h1{
-  color: blue;
+  color: rgb(253, 253, 255);
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h3{
-  color: purple;
+ color: crimson;
+ font-size: 50px;
 }
 body {
   
-  background-image: url(/image/Earth.jpg);
+  background-image: url(/image/earth2.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin: 200px;
+ 
+  
 }
 p {
-  color: blue;
-}
+ color: blanchedalmond;
+font-size: larger;
+  }
 ul {
   color: green;
 }
 #pic {
-  width: 250px;
-  height: 250px;
+  width: 600px;
+  height: 350px;
+  
 }

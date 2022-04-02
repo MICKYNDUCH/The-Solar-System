@@ -4,6 +4,8 @@ h1{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 50px;
   margin-bottom: 200px;
+  border: 3px solid lightblue;
+  border-radius: 20px;
 }
 h3{
  color: crimson;
@@ -12,7 +14,7 @@ h3{
 }
 body {
   
-  background-image: url(/image/earth2.jpg);
+  background-image: url(../image/earth2.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -37,5 +39,7 @@ ul {
   width: 600px;
   height: 350px;
   margin-left: 300px;
+  border: 2px solid lightblue ;
+  border-radius: 20px;
   
 }

@@ -14,7 +14,7 @@ h3{
 }
 body {
   
-  background-color: rgb(221, 255, 127);
+  background-color: rgb(236, 238, 228);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,23 +26,29 @@ body {
 p {
  color: black;
 font-size: larger;
-margin: 100px;
+margin-left: 200px;
+margin-right: 200px;
   }
 ul {
   font-size: large;
   text-align: left;
   color: white;
-  margin-left: 20px;
+  margin-left: 200px;
 }
 #pic {
   width: 800px;
   height: 350px;
-  margin-left: 200px;
+  margin-left: 10px;
   border: 2px solid lightblue ;
   border-radius: 20px;
   
 }
 h4{
- margin-left: 20px;
+ margin-left: 200px;
  font-size: large;
+ color: black;
+}
+#author{
+  color: black;
+  text-align: center;
 }

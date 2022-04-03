@@ -7,8 +7,6 @@ h1{
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 20px;
-  border: 3px solid lightblue;
-  border-radius: 20px;
 }
 h3{
  color: crimson;
@@ -17,19 +15,17 @@ h3{
 }
 body {
   
-  background-color: rgb(236, 238, 228);
+  background-image: url(/image/solar\ syt.jpg);
   background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat: round;
+  background-position: inherit;
   margin: 20px;
   color: white;
-  border: 2px solid blueviolet;
-  border-radius: 50px;
  
   
 }
 p {
- color: black;
+ color: aquamarine;
 font-size: larger;
 margin-left: 200px;
 margin-right: 200px;
@@ -51,10 +47,10 @@ ul {
 h4{
  margin-left: 200px;
  font-size: large;
- color: black;
+color: aquamarine;
 }
 #author{
-  color: black;
+  color:white;
   text-align: center;
 }
 #icons{

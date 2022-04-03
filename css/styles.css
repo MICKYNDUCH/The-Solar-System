@@ -14,7 +14,7 @@ h3{
 }
 body {
   
-  background-image: url(../image/earth2.jpg);
+  background-image: url(../image/earth3.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -29,11 +29,10 @@ font-size: larger;
 margin: 50px;
   }
 ul {
-  color: green;
   font-size: large;
   text-align: left;
   color: white;
-  margin-left: 250px;
+  margin-left: 20px;
 }
 #pic {
   width: 600px;
@@ -44,6 +43,6 @@ ul {
   
 }
 h4{
- margin-left: 250px;
+ margin-left: 20px;
  font-size: large;
 }
